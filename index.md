@@ -4,8 +4,8 @@
 
 - ピアノを弾くこと
 
-![](500134.jpg)
 <img src="500134.jpg" alt="piano" title="piano" width="200" height="200"/>
+<img src="adtDSC_2415-750x499.jpg" alt="piano" title="piano" width="200" height="200"/>
 
 - Mr.children　
 
