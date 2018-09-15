@@ -4,9 +4,7 @@
 
 - ピアノを弾くこと
 
-|piano1|piano2|
-|---|---|
-|![](500134.jpg)|![](adtDSC_2415-750x499.jpg)|
+<img src="adtDSC_2415-750x499.jpg" width="200">
 
 
 - Mr.children
