@@ -9,7 +9,9 @@
 |![](500134.jpg)|![](adtDSC_2415-750x499.jpg)|
 
 
-- Mr.children　
+- Mr.children
+
+![children](mr.png)
 
 ## 映画鑑賞　
 
