@@ -11,7 +11,7 @@
 
 - Mr.children
 
-![children](mr.png)
+<img src="mr.png" width="200">
 
 ## 映画鑑賞　
 
