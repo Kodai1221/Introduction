@@ -17,7 +17,7 @@
 
 詳細は[こちら]
 
-[こちら]:https://Kodai1221.github.io/intoro2
+[こちら]:intro2.md
 
 
   
