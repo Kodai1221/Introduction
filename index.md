@@ -4,8 +4,6 @@
 
 - **ピアノを弾くこと**
 
-<img src="adtDSC_2415-750x499.jpg" width="200">
-
 
 - Mr.children
 
