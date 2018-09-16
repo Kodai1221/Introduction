@@ -15,8 +15,4 @@
 
 - **洋画を観ること**
 
-詳細は[こちら]
-[こちら](https://kodai1221.github.io/Introduction/intoro2.html)
-
-
-  
+詳細は[こちら](https://kodai1221.github.io/Introduction/intoro2.html)
